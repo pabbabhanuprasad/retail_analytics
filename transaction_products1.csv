@@ -1,0 +1,100 @@
+transaction_id,product_name
+1,Milk
+1,Cooking Oil
+2,Toothpaste
+2,Eggs
+2,Butter
+3,Shampoo
+3,Eggs
+3,Toothpaste
+4,Tea
+4,Toothpaste
+5,Cooking Oil
+5,Bread
+6,Rice
+6,Biscuits
+6,Coffee
+7,Milk
+7,Eggs
+8,Soap
+8,Coffee
+9,Cheese
+9,Tea
+9,Soap
+10,Toothpaste
+10,Soap
+11,Cooking Oil
+11,Bread
+11,Rice
+12,Butter
+12,Biscuits
+13,Eggs
+13,Rice
+13,Toothpaste
+14,Eggs
+14,Bread
+15,Butter
+15,Biscuits
+16,Toothpaste
+16,Tea
+16,Rice
+17,Milk
+17,Cooking Oil
+17,Biscuits
+18,Butter
+18,Chocolate Bar
+18,Conditioner
+19,Butter
+19,Eggs
+20,Chocolate Bar
+20,Biscuits
+20,Conditioner
+21,Milk
+21,Soap
+21,Biscuits
+22,Cheese
+22,Milk
+22,Soap
+23,Milk
+23,Cooking Oil
+23,Toothpaste
+24,Chocolate Bar
+24,Soap
+25,Tea
+25,Coffee
+25,Butter
+26,Coffee
+26,Toothpaste
+27,Butter
+27,Cooking Oil
+28,Conditioner
+28,Milk
+29,Cheese
+29,Cooking Oil
+30,Cooking Oil
+30,Chocolate Bar
+31,Bread
+31,Rice
+32,Butter
+32,Bread
+33,Rice
+33,Chocolate Bar
+34,Bread
+34,Coffee
+34,Tea
+35,Butter
+35,Shampoo
+35,Cooking Oil
+36,Bread
+36,Tea
+36,Milk
+37,Milk
+37,Butter
+37,Coffee
+38,Toothpaste
+38,Shampoo
+38,Butter
+39,Tea
+39,Soap
+40,Cheese
+40,Cooking Oil

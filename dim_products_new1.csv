@@ -1,0 +1,16 @@
+product_id,product_name,category,price
+1,Bread,Personal Care,2.5
+2,Butter,Personal Care,3.2
+3,Milk,Grocery,1.8
+4,Eggs,Grocery,2.9
+5,Cheese,Grocery,4.5
+6,Shampoo,Personal Care,6.0
+7,Conditioner,Personal Care,6.2
+8,Soap,Grocery,1.5
+9,Toothpaste,Grocery,2.8
+10,Rice,Personal Care,10.0
+11,Cooking Oil,Grocery,8.5
+12,Biscuits,Personal Care,2.0
+13,Chocolate Bar,Grocery,1.7
+14,Tea,Grocery,5.5
+15,Coffee,Personal Care,7.0

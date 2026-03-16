@@ -1,0 +1,20 @@
+customer_id,recency,frequency,monetary,R_score,F_score,M_score,RFM_score,Segment
+1,638,7,58.0,3,5,4,354,Loyal Customers
+4,651,3,20.0,3,1,1,311,Hibernating
+7,730,6,38.0,1,4,2,142,At Risk
+11,659,4,43.0,2,2,3,223,Hibernating
+20,602,4,40.0,5,2,3,523,Hibernating
+5,696,5,60.0,2,3,5,235,At Risk
+19,637,5,42.0,4,3,3,433,Loyal Customers
+12,605,6,52.0,5,4,4,544,Champions
+17,702,4,19.0,2,2,1,221,Hibernating
+16,633,14,145.0,4,5,5,455,Champions
+9,614,6,65.0,5,4,5,545,Champions
+14,654,7,78.0,2,5,5,255,At Risk
+8,702,2,7.0,2,1,1,211,Hibernating
+10,638,3,25.0,3,1,2,312,Hibernating
+2,712,7,30.0,1,5,2,152,At Risk
+15,620,5,58.0,4,3,4,434,Loyal Customers
+3,604,6,54.0,5,4,4,544,Champions
+13,630,2,13.0,4,1,1,411,Hibernating
+18,756,3,33.0,1,2,2,122,Hibernating
